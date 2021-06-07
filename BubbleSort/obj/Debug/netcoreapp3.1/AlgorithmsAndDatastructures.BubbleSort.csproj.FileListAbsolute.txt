@@ -9,3 +9,14 @@ C:\CodeRed\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastruct
 C:\CodeRed\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.AssemblyInfo.cs
 C:\CodeRed\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.dll
 C:\CodeRed\BubbleSort\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.pdb
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.csprojAssemblyReference.cache
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.AssemblyInfoInputs.cache
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.AssemblyInfo.cs
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.dll
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\obj\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.pdb
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.exe
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.deps.json
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.runtimeconfig.json
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.runtimeconfig.dev.json
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.dll
+C:\CodeRed\AlgorithmsAndDatastructures\BubbleSort\bin\Debug\netcoreapp3.1\AlgorithmsAndDatastructures.BubbleSort.pdb

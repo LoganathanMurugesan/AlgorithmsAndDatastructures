@@ -21,6 +21,21 @@ namespace BubbleSort
                 }
             }
         }
+
+        public static void SelectionSort(int[] array)
+        {
+            for (int i = 0; i < array.Length-1; i++)
+            {
+                for (int j = 1; j < array.Length - 1; j++)
+                {
+                    if (array[i] < array[j])
+                    {
+                        Swap(array, array[i], array[j]);
+                    }
+                }
+            }
+        }
+
         private static void Swap(int[] array, int i, int j)
         {
             if (i == j) return;

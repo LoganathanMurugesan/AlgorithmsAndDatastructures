@@ -14,10 +14,17 @@ namespace AlgorithmsAndDatastructures.UnitTest
         {
             _testOutputHelper = testOutoutHelper;
         }
+
         [Fact]
         public void BubbleSort_WhenGivenValidInput_SortsTheInput()
         {
             RunTestsForSortingAlgorithm(Sorting.BubbleSort);
+        }
+
+        [Fact]
+        public void SelectionSort_WhenGivenValidInput_SortsTheInput()
+        {
+            RunTestsForSortingAlgorithm(Sorting.SelectionSort);
         }
 
         private void RunTestsForSortingAlgorithm(Action<int[]> sort)

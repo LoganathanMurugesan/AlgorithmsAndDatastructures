@@ -6222,11 +6222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeRed\\BubbleSort\\AlgorithmsAndDatastructures.UnitTest\\AlgorithmsAndDatastructures.UnitTest.csproj",
+      "projectUniqueName": "C:\\CodeRed\\AlgorithmsAndDatastructures\\AlgorithmsAndDatastructures.UnitTest\\AlgorithmsAndDatastructures.UnitTest.csproj",
       "projectName": "AlgorithmsAndDatastructures.UnitTest",
-      "projectPath": "C:\\CodeRed\\BubbleSort\\AlgorithmsAndDatastructures.UnitTest\\AlgorithmsAndDatastructures.UnitTest.csproj",
+      "projectPath": "C:\\CodeRed\\AlgorithmsAndDatastructures\\AlgorithmsAndDatastructures.UnitTest\\AlgorithmsAndDatastructures.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Loganathan_M3\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeRed\\BubbleSort\\AlgorithmsAndDatastructures.UnitTest\\obj\\",
+      "outputPath": "C:\\CodeRed\\AlgorithmsAndDatastructures\\AlgorithmsAndDatastructures.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6244,8 +6244,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\CodeRed\\BubbleSort\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj": {
-              "projectPath": "C:\\CodeRed\\BubbleSort\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj"
+            "C:\\CodeRed\\AlgorithmsAndDatastructures\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj": {
+              "projectPath": "C:\\CodeRed\\AlgorithmsAndDatastructures\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj"
             }
           }
         }

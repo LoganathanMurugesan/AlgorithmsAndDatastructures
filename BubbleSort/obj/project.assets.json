@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeRed\\BubbleSort\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj",
+      "projectUniqueName": "C:\\CodeRed\\AlgorithmsAndDatastructures\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj",
       "projectName": "AlgorithmsAndDatastructures.BubbleSort",
-      "projectPath": "C:\\CodeRed\\BubbleSort\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj",
+      "projectPath": "C:\\CodeRed\\AlgorithmsAndDatastructures\\BubbleSort\\AlgorithmsAndDatastructures.BubbleSort.csproj",
       "packagesPath": "C:\\Users\\Loganathan_M3\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeRed\\BubbleSort\\BubbleSort\\obj\\",
+      "outputPath": "C:\\CodeRed\\AlgorithmsAndDatastructures\\BubbleSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
